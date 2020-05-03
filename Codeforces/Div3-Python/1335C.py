@@ -1,6 +1,8 @@
+# Q: https://codeforces.com/contest/1335/problem/C
+
 def main():
 	test = int(input())
-	for t in range(test):
+	for _ in range(test):
 		n = int(input())
 		N = list(map(int, input().split(" ")))
 		N.sort()

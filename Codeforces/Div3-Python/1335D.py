@@ -1,3 +1,5 @@
+# Q: https://codeforces.com/contest/1335/problem/D
+
 def main():
 	test = int(input())
 	for t in range(test):
